@@ -1,4 +1,4 @@
-[![MasterHead](https://scontent.faqb1-2.fna.fbcdn.net/v/t39.30808-6/283785686_1997978570401322_503990562543986978_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=sCSzv0QvDIIAX9JxnQE&_nc_ht=scontent.faqb1-2.fna&oh=00_AfBf3fj3MJ9uv4vmtZYjZWsbApODyUusEeXP5TrHalIrsQ&oe=6484FC21)](https://rishavchanda.io)
+[![MasterHead](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sebastian Solares</h1>
 <h3 align="center">A passionate developer from GT </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
