@@ -31,7 +31,7 @@
 
 &nbsp;<div align="center">
   
-  [![Spotify](https://spotify-now-playing-14mbb3kiu-ssolares0.vercel.app/api/spotify)](https://open.spotify.com/user/Ssolares06)
+  [![Spotify](https://spotify-now-playing-psi-lemon.vercel.app/api/spotify)](https://open.spotify.com/user/Ssolares06)
   
 </div>
 
