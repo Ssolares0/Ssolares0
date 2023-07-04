@@ -29,6 +29,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssolares0&theme=dark" alt="ssolares0" /></p>
 
-[![Spotify](spotify-now-playing-14mbb3kiu-ssolares0.vercel.app)](https://open.spotify.com/user/Ssolares06)
+&nbsp;<div align="center">
+  [![Spotify](spotify-now-playing-psi-lemon.vercel.app?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
 
 
