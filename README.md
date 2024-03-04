@@ -1,5 +1,5 @@
 &nbsp;<div align="center">
-[![MasterHead](https://content.wepik.com/statics/7513217/preview-page0.jpg)](https://rishavchanda.io)
+<img align="right" alt="Coding" width="400" src=git_header.jpg/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Sebastian Solares</h1>
