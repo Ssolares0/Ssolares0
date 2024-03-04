@@ -1,5 +1,5 @@
 &nbsp;<div align="center">
-<img align="center" alt="Coding" width="400" src=git_header.jpg/>
+<img align="center" alt="Coding" width="100%" style="max-width: 100%;" src="git_header.jpg" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Sebastian Solares</h1>
