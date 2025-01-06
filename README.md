@@ -17,9 +17,9 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Python, Java, Js, Go, C++, asm, react, nodejs**
+- 🌱 I’m currently learning **Python, Java, Js, Go, react, node,Docker,AWS**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **JavaScript,node,Ts,Python**
 
 - 📫 How to reach me **sebastiansolares2001@gmail.com**
 
