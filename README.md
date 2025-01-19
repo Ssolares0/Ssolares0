@@ -17,11 +17,14 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Python, Java, Js, Go, react, node,Docker,AWS**
+I am a systems engineering student and enthusiastic developer with a great passion for learning and exploring new technologies. My journey in software development began with curiosity and has grown into a commitment to creating impactful solutions. I thrive in collaborative environments and seek to constantly hone my skills. Here's a little more about me:
 
-- 💬 Ask me about **JavaScript,node,Ts,Python**
+- 🌱 I’m currently focused on enhancing my expertise in **Python, Docker, TypeScript, Go, React, Node.js, and AWS Cloud**.
 
-- 📫 How to reach me **sebastiansolares2001@gmail.com**
+- 💬 I specialize in **JavaScript, Node.js, TypeScript, and Python**. Feel free to reach out with any questions or collaboration opportunities in these areas.
+
+- 📫 You can contact me at **sebastiansolares2001@gmail.com** for inquiries, collaborations, or networking.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
